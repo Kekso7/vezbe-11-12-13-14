@@ -1,0 +1,58 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.vh-100 {
+	height: 100vh;
+}
+
+.flex {
+	display: flex;
+}
+
+.leftImage {
+	width: 100%;
+	height: 100%;
+}
+
+.w-45 {
+	width: 45%;
+}
+
+.w-10 {
+	width: 10%;
+}
+
+.bg-green {
+	background-color: rgb(58, 82, 48);
+	color: rgb(243, 184, 130);
+}
+
+.rotatedText {
+	transform: rotate(90deg);
+	margin-top: 350px;
+	white-space: nowrap;
+	font-size: 2rem;
+}
+
+.line {
+	background-color: rgb(82, 61, 41);
+	border: 1px solid rgb(82, 61, 41);
+	height: 4px;
+	margin-top: 20px;
+	margin-bottom: 40px;
+}
+
+.rightContent {
+	padding: 2.5rem;
+	color: rgb(96, 60, 37);
+}
+
+.rightContent h1 {
+	font-size: 2.5rem;
+}
+
+.rightContent p {
+	font-size: 1.5rem;
+}

@@ -1,0 +1,33 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+.vh-100 {
+	height: 100vh;
+}
+
+.flex {
+	display: flex;
+}
+
+.leftImage {
+	width: 100%;
+	height: 100%;
+}
+
+.w-45 {
+	width: 45%;
+}
+
+.w-10 {
+	width: 10%;
+}
+
+.bg-brown {
+	background-color: rgb(96, 60, 37);
+}
+
+.bg-green {
+	background-color: rgb(10, 38, 10);
+}
